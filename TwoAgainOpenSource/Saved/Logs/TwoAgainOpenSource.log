@@ -1,0 +1,1455 @@
+﻿Log file open, 08/01/19 18:11:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TwoAgainOpenSource
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.283755
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/Config/Windows/Engine.ini]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.08.01-12.41.56:365][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/Config/Windows/Engine.ini]
+[2019.08.01-12.41.56:366][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/Config/Windows/Engine.ini]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/Config/Windows/Engine.ini]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.01-12.41.56:366][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/Config/Windows/Engine.ini]
+[2019.08.01-12.41.56:366][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/Config/Windows/Engine.ini]
+[2019.08.01-12.41.56:368][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.01-12.41.56:368][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.01-12.41.56:369][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.01-12.41.56:369][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.01-12.41.56:369][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.01-12.41.56:383][  0]LogHAL: Display: Platform has ~ 8 GB [8448548864 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.01-12.41.56:383][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.01-12.41.56:383][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.01-12.41.56:383][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-12.41.56:384][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.01-12.41.56:384][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.01-12.41.56:384][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.01-12.41.56:384][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.01-12.41.56:384][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.01-12.41.56:384][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.01-12.41.56:384][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.01-12.41.56:384][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.01-12.41.56:384][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-12.41.56:384][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.01-12.41.56:384][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.01-12.41.56:384][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.01-12.41.56:384][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.01-12.41.56:384][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.01-12.41.56:384][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.01-12.41.56:384][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.01-12.41.56:384][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.01-12.41.56:384][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.01-12.41.56:384][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.01-12.41.56:384][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.01-12.41.56:384][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.01-12.41.56:384][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.01-12.41.56:384][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-12.41.56:384][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.01-12.41.56:384][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.01-12.41.56:384][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.01-12.41.56:384][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.01-12.41.56:384][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.01-12.41.56:384][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/Config/Windows/Engine.ini]
+[2019.08.01-12.41.56:384][  0]LogInit: Computer: DESKTOP-K6DAKET
+[2019.08.01-12.41.56:384][  0]LogInit: User: l4
+[2019.08.01-12.41.56:384][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.08.01-12.41.56:384][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.08.01-12.41.56:384][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.08.01-12.41.56:384][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.01-12.41.56:384][  0]LogMemory: Process Physical Memory: 97.80 MB used, 97.80 MB peak
+[2019.08.01-12.41.56:384][  0]LogMemory: Process Virtual Memory: 89.20 MB used, 89.20 MB peak
+[2019.08.01-12.41.56:384][  0]LogMemory: Physical Memory: 3260.97 MB used,  4796.19 MB free, 8057.16 MB total
+[2019.08.01-12.41.56:384][  0]LogMemory: Virtual Memory: 4642.74 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.08.01-12.41.56:403][  0]LogInit: Using OS detected language (hi-IN).
+[2019.08.01-12.41.56:403][  0]LogInit: Using OS detected locale (en-AS).
+[2019.08.01-12.41.56:404][  0]LogTextLocalizationManager: No localization for 'hi-IN' exists, so 'en' will be used for the language.
+[2019.08.01-12.41.56:560][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.01-12.41.56:607][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.01-12.41.56:607][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.01-12.41.56:799][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.01-12.41.56:799][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.01-12.41.57:065][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2019.08.01-12.41.57:065][  0]LogD3D11RHI:       128/0/4028 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.08.01-12.41.57:067][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.01-12.41.57:067][  0]LogD3D11RHI:       0/0/4028 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.01-12.41.57:067][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.01-12.41.57:072][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.01-12.41.57:072][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.01-12.41.57:072][  0]LogWindows: EnumDisplayDevices:
+[2019.08.01-12.41.57:072][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2019.08.01-12.41.57:072][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.08.01-12.41.57:073][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.08.01-12.41.57:073][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.08.01-12.41.57:073][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2019.08.01-12.41.57:073][  0]LogD3D11RHI:   Driver Version: 23.20.16.4905 (internal:23.20.16.4905, unified:23.20.16.4905)
+[2019.08.01-12.41.57:073][  0]LogD3D11RHI:      Driver Date: 12-27-2017
+[2019.08.01-12.41.57:073][  0]LogRHI: Texture pool is 1499 MB (70% of 2142 MB)
+[2019.08.01-12.41.57:326][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.01-12.41.57:329][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.01-12.41.57:330][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.01-12.41.57:330][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.01-12.41.57:331][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.08.01-12.41.57:626][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.01-12.41.57:641][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.01-12.41.57:658][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.01-12.41.57:674][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.01-12.41.57:690][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.01-12.41.57:706][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.01-12.41.57:726][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.01-12.41.57:742][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.01-12.41.57:750][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.01-12.41.57:842][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.01-12.41.57:842][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.01-12.41.57:842][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.01-12.41.57:842][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.01-12.41.57:842][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.01-12.41.57:842][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.01-12.41.57:842][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.01-12.41.57:842][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.01-12.41.57:842][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.01-12.41.57:842][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.01-12.41.57:842][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.01-12.41.57:842][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.01-12.41.57:842][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.01-12.41.57:842][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.01-12.41.57:842][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.01-12.41.57:842][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.01-12.41.57:842][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.01-12.41.57:842][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.01-12.41.57:845][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.01-12.41.57:898][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.01-12.41.57:898][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.01-12.41.57:923][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.01-12.41.57:923][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.01-12.41.57:936][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.01-12.41.57:949][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.01-12.41.57:963][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.01-12.41.57:976][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.01-12.41.58:022][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.01-12.41.58:022][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.01-12.41.58:022][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.01-12.41.58:033][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.01-12.41.58:096][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Intermediate/Shaders/WorkingDirectory/6812/).
+[2019.08.01-12.41.58:096][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/l4/AppData/Local/Temp/UnrealShaderWorkingDir/AC3E755743355FB6AEBF1796B83EE11C/'.
+[2019.08.01-12.41.58:099][  0]LogXGEController: Cleaning working directory: C:/Users/l4/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.01-12.41.58:099][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.01-12.41.58:100][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.01-12.41.58:100][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.01-12.41.58:647][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.01-12.41.58:703][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/l4/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.01-12.41.58:703][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/l4/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.01-12.41.58:703][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.01-12.41.58:703][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.01-12.41.58:703][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.01-12.41.58:703][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.01-12.41.58:716][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.01-12.41.58:716][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.01-12.41.58:716][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.01-12.41.58:728][  0]LogDerivedDataCache: Using Local data cache path C:/Users/l4/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.01-12.41.58:728][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.01-12.41.58:728][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.01-12.41.58:750][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.01-12.41.58:751][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.01-12.41.58:751][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.01-12.41.58:836][  0]LogAssetRegistry: FAssetRegistry took 0.0340 seconds to start up
+[2019.08.01-12.41.59:196][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.01-12.41.59:355][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.01-12.41.59:355][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.01-12.41.59:355][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.01-12.41.59:355][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.01-12.41.59:355][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.01-12.41.59:366][  0]LogNetVersion: TwoAgainOpenSource 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2391023420)
+[2019.08.01-12.41.59:774][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.045994 seconds
+[2019.08.01-12.41.59:781][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.01-12.41.59:781][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.01-12.41.59:781][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.01-12.42.00:631][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.01-12.42.00:645][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.01-12.42.00:750][  0]SourceControl: Source control is disabled
+[2019.08.01-12.42.00:750][  0]SourceControl: Source control is disabled
+[2019.08.01-12.42.00:751][  0]SourceControl: Source control is disabled
+[2019.08.01-12.42.00:752][  0]SourceControl: Source control is disabled
+[2019.08.01-12.42.00:824][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.01-12.42.00:891][  0]LogHoudiniEngine: Starting the Houdini Engine module.
+[2019.08.01-12.42.00:892][  0]LogHoudiniEngine: Failed locating or loading libHAPIL.dll
+[2019.08.01-12.42.00:892][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_logo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.08.01-12.42.00:894][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.08.01-12.42.00:900][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_bgeo_import.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.08.01-12.42.00:903][  0]LogOcInput: OculusInput pre-init called
+[2019.08.01-12.42.01:548][  0]LogEngine: Initializing Engine...
+[2019.08.01-12.42.01:549][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.01-12.42.01:550][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.08.01-12.42.01:762][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.01-12.42.01:782][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.01-12.42.01:792][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.01-12.42.01:833][  0]LogInit: FAudioDevice initialized.
+[2019.08.01-12.42.01:834][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.01-12.42.02:855][  0]LogDerivedDataCache: Saved boot cache 1.02s 71MB C:/Users/l4/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.01-12.42.02:864][  0]LogInit: Texture streaming: Enabled
+[2019.08.01-12.42.02:886][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.01-12.42.02:910][  0]LogInit: Transaction tracking system initialized
+[2019.08.01-12.42.02:941][  0]BlueprintLog: New page: Editor Load
+[2019.08.01-12.42.03:046][  0]LocalizationService: Localization service is disabled
+[2019.08.01-12.42.03:627][  0]LogFileCache: Scanning file cache for directory 'C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Content/' took 0.02s
+[2019.08.01-12.42.03:627][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.01-12.42.03:627][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.01-12.42.03:718][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2019.08.01-12.42.03:719][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2019.08.01-12.42.03:812][  0]SourceControl: Source control is disabled
+[2019.08.01-12.42.03:812][  0]Cmd: MAP LOAD FILE="../../../../../../Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.01-12.42.03:815][  0]LightingResults: New page: Lighting Build
+[2019.08.01-12.42.03:819][  0]MapCheck: New page: Map Check
+[2019.08.01-12.42.03:819][  0]LightingResults: New page: Lighting Build
+[2019.08.01-12.42.03:843][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.08.01-12.42.03:899][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Elemental/Fire/P_Beam_Laser_Fire_Large'
+[2019.08.01-12.42.03:899][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Elemental/Fire/P_Beam_Laser_Fire_Large.P_Beam_Laser_Fire_Large Referenced by ParticleSystem_GEN_VARIABLE
+[2019.08.01-12.42.03:899][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Elemental/Fire/P_Beam_Laser_Fire_Large' while loading NULL.
+[2019.08.01-12.42.03:956][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST'
+[2019.08.01-12.42.03:956][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/P_Beam_Laser_Fire1.P_Beam_Laser_Fire1 Referenced by ParticleSystem_GEN_VARIABLE
+[2019.08.01-12.42.03:956][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST' while loading NULL.
+[2019.08.01-12.42.03:956][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_Vertical_01_INST'
+[2019.08.01-12.42.03:956][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/P_Beam_Laser_Fire1.P_Beam_Laser_Fire1 Referenced by ParticleSystem_GEN_VARIABLE
+[2019.08.01-12.42.03:957][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_Vertical_01_INST' while loading NULL.
+[2019.08.01-12.42.03:957][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Trails/M_ElementalBeam_01_INST'
+[2019.08.01-12.42.03:957][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/P_Beam_Laser_Fire1.P_Beam_Laser_Fire1 Referenced by ParticleSystem_GEN_VARIABLE
+[2019.08.01-12.42.03:957][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Trails/M_ElementalBeam_01_INST' while loading NULL.
+[2019.08.01-12.42.03:957][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST'
+[2019.08.01-12.42.03:957][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/P_Beam_Laser_Fire1.P_Beam_Laser_Fire1 Referenced by ParticleSystem_GEN_VARIABLE
+[2019.08.01-12.42.03:957][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST' while loading NULL.
+[2019.08.01-12.42.03:958][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_Vertical_01_INST'
+[2019.08.01-12.42.03:958][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/P_Beam_Laser_Fire1.P_Beam_Laser_Fire1 Referenced by ParticleSystem_GEN_VARIABLE
+[2019.08.01-12.42.03:958][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_Vertical_01_INST' while loading NULL.
+[2019.08.01-12.42.03:958][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Trails/M_ElementalBeam_01_INST'
+[2019.08.01-12.42.03:958][  0]LoadErrors: Failed to load /Game/2DSideScrollerBP/P_Beam_Laser_Fire1.P_Beam_Laser_Fire1 Referenced by ParticleSystem_GEN_VARIABLE
+[2019.08.01-12.42.03:958][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Trails/M_ElementalBeam_01_INST' while loading NULL.
+[2019.08.01-12.42.04:011][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Environments/Breakables/Materials/M_Breakables_Pots_Red'
+[2019.08.01-12.42.04:012][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Environments/Breakables/Materials/M_Breakables_Pots_Red' while loading NULL.
+[2019.08.01-12.42.04:012][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Fire_01_INST'
+[2019.08.01-12.42.04:012][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Fire_01_INST' while loading NULL.
+[2019.08.01-12.42.04:012][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_01_Add_6X6_INST'
+[2019.08.01-12.42.04:012][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_01_Add_6X6_INST' while loading NULL.
+[2019.08.01-12.42.04:013][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_01_INST'
+[2019.08.01-12.42.04:013][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_01_INST' while loading NULL.
+[2019.08.01-12.42.04:013][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST'
+[2019.08.01-12.42.04:013][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST' while loading NULL.
+[2019.08.01-12.42.04:013][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_01_Add_2Side_INST'
+[2019.08.01-12.42.04:014][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_01_Add_2Side_INST' while loading NULL.
+[2019.08.01-12.42.04:014][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/Beakable_No_Rim_MeshEmit_INST'
+[2019.08.01-12.42.04:014][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/Beakable_No_Rim_MeshEmit_INST' while loading NULL.
+[2019.08.01-12.42.04:014][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_Smoke_01_8X8_INST'
+[2019.08.01-12.42.04:014][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_Smoke_01_8X8_INST' while loading NULL.
+[2019.08.01-12.42.04:014][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Spark/M_Spark_03_1_4_INST'
+[2019.08.01-12.42.04:015][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Spark/M_Spark_03_1_4_INST' while loading NULL.
+[2019.08.01-12.42.04:015][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Fire_01_INST'
+[2019.08.01-12.42.04:015][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Fire_01_INST' while loading NULL.
+[2019.08.01-12.42.04:015][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_01_Add_6X6_INST'
+[2019.08.01-12.42.04:015][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_01_Add_6X6_INST' while loading NULL.
+[2019.08.01-12.42.04:015][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_01_INST'
+[2019.08.01-12.42.04:015][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_01_INST' while loading NULL.
+[2019.08.01-12.42.04:016][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST'
+[2019.08.01-12.42.04:016][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST' while loading NULL.
+[2019.08.01-12.42.04:016][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_01_Add_2Side_INST'
+[2019.08.01-12.42.04:016][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_01_Add_2Side_INST' while loading NULL.
+[2019.08.01-12.42.04:016][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/Beakable_No_Rim_MeshEmit_INST'
+[2019.08.01-12.42.04:016][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/Beakable_No_Rim_MeshEmit_INST' while loading NULL.
+[2019.08.01-12.42.04:016][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_Smoke_01_8X8_INST'
+[2019.08.01-12.42.04:017][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_Smoke_01_8X8_INST' while loading NULL.
+[2019.08.01-12.42.04:017][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Spark/M_Spark_03_1_4_INST'
+[2019.08.01-12.42.04:017][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Spark/M_Spark_03_1_4_INST' while loading NULL.
+[2019.08.01-12.42.04:017][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_BlastWave'
+[2019.08.01-12.42.04:017][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_BlastWave' while loading NULL.
+[2019.08.01-12.42.04:017][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Environments/Breakables/Materials/M_Breakables_Pots_Red'
+[2019.08.01-12.42.04:017][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Environments/Breakables/Materials/M_Breakables_Pots_Red' while loading NULL.
+[2019.08.01-12.42.04:018][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Environments/Breakables/StaticMesh/pot1/SM_PotDebris_02'
+[2019.08.01-12.42.04:018][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Environments/Breakables/StaticMesh/pot1/SM_PotDebris_02' while loading NULL.
+[2019.08.01-12.42.04:018][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_BlastWave'
+[2019.08.01-12.42.04:018][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_BlastWave' while loading NULL.
+[2019.08.01-12.42.04:018][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Environments/Breakables/StaticMesh/pot1/SM_PotDebris_02'
+[2019.08.01-12.42.04:018][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Environments/Breakables/StaticMesh/pot1/SM_PotDebris_02' while loading NULL.
+[2019.08.01-12.42.04:073][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_RockDebris_Trans_INST'
+[2019.08.01-12.42.04:073][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_RockDebris_Trans_INST' while loading NULL.
+[2019.08.01-12.42.04:074][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_09_Inst'
+[2019.08.01-12.42.04:074][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_09_Inst' while loading NULL.
+[2019.08.01-12.42.04:074][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST'
+[2019.08.01-12.42.04:074][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST' while loading NULL.
+[2019.08.01-12.42.04:074][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Noise/M_Tile_Noise_Tendril_01_In_INST'
+[2019.08.01-12.42.04:074][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Noise/M_Tile_Noise_Tendril_01_In_INST' while loading NULL.
+[2019.08.01-12.42.04:075][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_RockDebris_Trans_INST'
+[2019.08.01-12.42.04:075][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_RockDebris_Trans_INST' while loading NULL.
+[2019.08.01-12.42.04:075][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_09_Inst'
+[2019.08.01-12.42.04:075][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_09_Inst' while loading NULL.
+[2019.08.01-12.42.04:075][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST'
+[2019.08.01-12.42.04:075][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST' while loading NULL.
+[2019.08.01-12.42.04:075][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Noise/M_Tile_Noise_Tendril_01_In_INST'
+[2019.08.01-12.42.04:075][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Noise/M_Tile_Noise_Tendril_01_In_INST' while loading NULL.
+[2019.08.01-12.42.04:076][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_FireBlastMesh'
+[2019.08.01-12.42.04:076][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_FireBlastMesh' while loading NULL.
+[2019.08.01-12.42.04:076][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_FireBlastMesh'
+[2019.08.01-12.42.04:076][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_FireBlastMesh' while loading NULL.
+[2019.08.01-12.42.04:094][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tile_Noise_Tendril_01'
+[2019.08.01-12.42.04:094][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tile_Noise_Tendril_01' while loading NULL.
+[2019.08.01-12.42.04:094][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Ice_01_INST'
+[2019.08.01-12.42.04:094][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Ice_01_INST' while loading NULL.
+[2019.08.01-12.42.04:095][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST'
+[2019.08.01-12.42.04:095][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST' while loading NULL.
+[2019.08.01-12.42.04:095][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_09_Inst'
+[2019.08.01-12.42.04:095][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_09_Inst' while loading NULL.
+[2019.08.01-12.42.04:095][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST'
+[2019.08.01-12.42.04:095][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST' while loading NULL.
+[2019.08.01-12.42.04:095][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_01_ADD_INST'
+[2019.08.01-12.42.04:096][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_01_ADD_INST' while loading NULL.
+[2019.08.01-12.42.04:096][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Ice_01_INST'
+[2019.08.01-12.42.04:096][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Ice_01_INST' while loading NULL.
+[2019.08.01-12.42.04:096][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST'
+[2019.08.01-12.42.04:096][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST' while loading NULL.
+[2019.08.01-12.42.04:096][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_09_Inst'
+[2019.08.01-12.42.04:096][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_09_Inst' while loading NULL.
+[2019.08.01-12.42.04:096][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST'
+[2019.08.01-12.42.04:097][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST' while loading NULL.
+[2019.08.01-12.42.04:097][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_01_ADD_INST'
+[2019.08.01-12.42.04:097][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_01_ADD_INST' while loading NULL.
+[2019.08.01-12.42.04:097][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tile_Noise_Tendril_01'
+[2019.08.01-12.42.04:097][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tile_Noise_Tendril_01' while loading NULL.
+[2019.08.01-12.42.04:097][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_FireBlastMesh'
+[2019.08.01-12.42.04:097][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_FireBlastMesh' while loading NULL.
+[2019.08.01-12.42.04:098][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_FireBlastMesh'
+[2019.08.01-12.42.04:098][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_FireBlastMesh' while loading NULL.
+[2019.08.01-12.42.04:107][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Elemental/Fire/P_Beam_Laser_Fire_Large'
+[2019.08.01-12.42.04:107][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Elemental/Fire/P_Beam_Laser_Fire_Large' while loading NULL.
+[2019.08.01-12.42.04:107][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Elemental/Fire/P_Beam_Laser_Fire_Large'
+[2019.08.01-12.42.04:107][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Elemental/Fire/P_Beam_Laser_Fire_Large' while loading NULL.
+[2019.08.01-12.42.04:271][  0]LogBlueprint: Warning: [Compiler 2DSideScrollerCharacter] InputAction Event references unknown Action 'Throw' for  InputAction Throw
+[2019.08.01-12.42.04:271][  0]LogBlueprint: Warning: [Compiler 2DSideScrollerCharacter] InputAction Event references unknown Action 'Sword' for  InputAction Sword
+[2019.08.01-12.42.04:285][  0]LogBlueprint: Warning: [Compiler Enemy] InputAction Event references unknown Action 'Throw' for  InputAction Throw
+[2019.08.01-12.42.04:285][  0]LogBlueprint: Warning: [Compiler Enemy] InputAction Event references unknown Action 'Sword' for  InputAction Sword
+[2019.08.01-12.42.04:332][  0]LogBlueprint: Warning: [Compiler 2DSideScrollerCharacter] [0009.56] Compile of 2DSideScrollerCharacter successful, but with 2 Warning(s) [in 113 ms] (/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter)
+[2019.08.01-12.42.04:332][  0]LogBlueprint: Warning: [Compiler Enemy] [0009.56] Compile of Enemy successful, but with 2 Warning(s) [in 113 ms] (/Game/2DSideScrollerBP/Blueprints/Enemy.Enemy)
+[2019.08.01-12.42.04:336][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Elemental/Fire/P_Beam_Laser_Fire_Large'
+[2019.08.01-12.42.04:336][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Elemental/Fire/P_Beam_Laser_Fire_Large' while loading NULL.
+[2019.08.01-12.42.04:336][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Elemental/Fire/P_Beam_Laser_Fire_Large'
+[2019.08.01-12.42.04:336][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Elemental/Fire/P_Beam_Laser_Fire_Large' while loading NULL.
+[2019.08.01-12.42.04:368][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_Heart_01_INST'
+[2019.08.01-12.42.04:368][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_Heart_01_INST' while loading NULL.
+[2019.08.01-12.42.04:368][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_01_INST'
+[2019.08.01-12.42.04:368][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_01_INST' while loading NULL.
+[2019.08.01-12.42.04:368][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST'
+[2019.08.01-12.42.04:368][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST' while loading NULL.
+[2019.08.01-12.42.04:368][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Glow_Vertical_INST'
+[2019.08.01-12.42.04:369][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Glow_Vertical_INST' while loading NULL.
+[2019.08.01-12.42.04:369][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_Heart_01_INST'
+[2019.08.01-12.42.04:369][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_Heart_01_INST' while loading NULL.
+[2019.08.01-12.42.04:369][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_01_INST'
+[2019.08.01-12.42.04:369][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_01_INST' while loading NULL.
+[2019.08.01-12.42.04:369][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST'
+[2019.08.01-12.42.04:369][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST' while loading NULL.
+[2019.08.01-12.42.04:370][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Glow_Vertical_INST'
+[2019.08.01-12.42.04:370][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Glow_Vertical_INST' while loading NULL.
+[2019.08.01-12.42.04:428][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tile_Noise_Tendril_01'
+[2019.08.01-12.42.04:428][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tile_Noise_Tendril_01.M_Tile_Noise_Tendril_01 Referenced by ParticleModuleMeshMaterial_0
+[2019.08.01-12.42.04:428][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tile_Noise_Tendril_01' while loading NULL.
+[2019.08.01-12.42.04:428][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Ice_01_INST'
+[2019.08.01-12.42.04:428][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Ice_01_INST.M_CrackedGround_Ice_01_INST Referenced by ParticleModuleRequired_10
+[2019.08.01-12.42.04:428][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Ice_01_INST' while loading NULL.
+[2019.08.01-12.42.04:429][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_01_ADD_INST'
+[2019.08.01-12.42.04:429][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_01_ADD_INST.M_Shockwave_01_ADD_INST Referenced by ParticleModuleRequired_15
+[2019.08.01-12.42.04:429][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_01_ADD_INST' while loading NULL.
+[2019.08.01-12.42.04:429][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST'
+[2019.08.01-12.42.04:429][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST.M_Flare_03_INST Referenced by ParticleModuleRequired_17
+[2019.08.01-12.42.04:429][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST' while loading NULL.
+[2019.08.01-12.42.04:429][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST'
+[2019.08.01-12.42.04:429][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST.M_Liquid_Spray_01_4X6_INST Referenced by ParticleModuleRequired_21
+[2019.08.01-12.42.04:429][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST' while loading NULL.
+[2019.08.01-12.42.04:430][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_09_Inst'
+[2019.08.01-12.42.04:430][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_09_Inst.M_Flare_09_Inst Referenced by ParticleModuleRequired_3
+[2019.08.01-12.42.04:430][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_09_Inst' while loading NULL.
+[2019.08.01-12.42.04:430][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tile_Noise_Tendril_01'
+[2019.08.01-12.42.04:430][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tile_Noise_Tendril_01.M_Tile_Noise_Tendril_01 Referenced by ParticleModuleRequired_4
+[2019.08.01-12.42.04:430][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_Tile_Noise_Tendril_01' while loading NULL.
+[2019.08.01-12.42.04:430][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST'
+[2019.08.01-12.42.04:430][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST.M_Liquid_Spray_01_4X6_INST Referenced by ParticleModuleRequired_7
+[2019.08.01-12.42.04:431][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST' while loading NULL.
+[2019.08.01-12.42.04:431][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_FireBlastMesh'
+[2019.08.01-12.42.04:432][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_FireBlastMesh.SM_FireBlastMesh Referenced by ParticleModuleTypeDataMesh_0
+[2019.08.01-12.42.04:432][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_FireBlastMesh' while loading NULL.
+[2019.08.01-12.42.04:434][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Noise/M_Tile_Noise_Tendril_01_In_INST'
+[2019.08.01-12.42.04:434][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Noise/M_Tile_Noise_Tendril_01_In_INST.M_Tile_Noise_Tendril_01_In_INST Referenced by ParticleModuleMeshMaterial_0
+[2019.08.01-12.42.04:434][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Noise/M_Tile_Noise_Tendril_01_In_INST' while loading NULL.
+[2019.08.01-12.42.04:434][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_09_Inst'
+[2019.08.01-12.42.04:434][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_09_Inst.M_Flare_09_Inst Referenced by ParticleModuleRequired_2
+[2019.08.01-12.42.04:434][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_09_Inst' while loading NULL.
+[2019.08.01-12.42.04:434][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_RockDebris_Trans_INST'
+[2019.08.01-12.42.04:434][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_RockDebris_Trans_INST.M_RockDebris_Trans_INST Referenced by ParticleModuleRequired_6
+[2019.08.01-12.42.04:435][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_RockDebris_Trans_INST' while loading NULL.
+[2019.08.01-12.42.04:435][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST'
+[2019.08.01-12.42.04:435][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST.M_Liquid_Spray_01_4X6_INST Referenced by ParticleModuleRequired_8
+[2019.08.01-12.42.04:435][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST' while loading NULL.
+[2019.08.01-12.42.04:436][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_FireBlastMesh'
+[2019.08.01-12.42.04:436][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_FireBlastMesh.SM_FireBlastMesh Referenced by ParticleModuleTypeDataMesh_0
+[2019.08.01-12.42.04:436][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_FireBlastMesh' while loading NULL.
+[2019.08.01-12.42.04:445][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Trails/M_ElementalBeam_01_INST'
+[2019.08.01-12.42.04:445][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Trails/M_ElementalBeam_01_INST.M_ElementalBeam_01_INST Referenced by ParticleModuleRequired_0
+[2019.08.01-12.42.04:445][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Trails/M_ElementalBeam_01_INST' while loading NULL.
+[2019.08.01-12.42.04:445][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_Vertical_01_INST'
+[2019.08.01-12.42.04:445][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_Vertical_01_INST.M_Flare_Vertical_01_INST Referenced by ParticleModuleRequired_15
+[2019.08.01-12.42.04:445][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_Vertical_01_INST' while loading NULL.
+[2019.08.01-12.42.04:445][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST'
+[2019.08.01-12.42.04:445][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST.M_Flare_03_INST Referenced by ParticleModuleRequired_16
+[2019.08.01-12.42.04:446][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST' while loading NULL.
+[2019.08.01-12.42.04:449][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_01_Add_2Side_INST'
+[2019.08.01-12.42.04:449][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_01_Add_2Side_INST.M_Shockwave_01_Add_2Side_INST Referenced by ParticleModuleMeshMaterial_0
+[2019.08.01-12.42.04:449][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/M_Shockwave_01_Add_2Side_INST' while loading NULL.
+[2019.08.01-12.42.04:449][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/Beakable_No_Rim_MeshEmit_INST'
+[2019.08.01-12.42.04:449][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/Beakable_No_Rim_MeshEmit_INST.Beakable_No_Rim_MeshEmit_INST Referenced by ParticleModuleMeshMaterial_34
+[2019.08.01-12.42.04:449][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Mobile/Beakable_No_Rim_MeshEmit_INST' while loading NULL.
+[2019.08.01-12.42.04:449][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Fire_01_INST'
+[2019.08.01-12.42.04:450][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Fire_01_INST.M_CrackedGround_Fire_01_INST Referenced by ParticleModuleRequired_0
+[2019.08.01-12.42.04:450][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Fire_01_INST' while loading NULL.
+[2019.08.01-12.42.04:450][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_Smoke_01_8X8_INST'
+[2019.08.01-12.42.04:450][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_Smoke_01_8X8_INST.M_Smoke_01_8X8_INST Referenced by ParticleModuleRequired_1
+[2019.08.01-12.42.04:450][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_Smoke_01_8X8_INST' while loading NULL.
+[2019.08.01-12.42.04:450][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST'
+[2019.08.01-12.42.04:450][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST.M_Liquid_Spray_01_4X6_INST Referenced by ParticleModuleRequired_10
+[2019.08.01-12.42.04:450][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Liquid/M_Liquid_Spray_01_4X6_INST' while loading NULL.
+[2019.08.01-12.42.04:451][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Spark/M_Spark_03_1_4_INST'
+[2019.08.01-12.42.04:451][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Spark/M_Spark_03_1_4_INST.M_Spark_03_1_4_INST Referenced by ParticleModuleRequired_3
+[2019.08.01-12.42.04:451][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Spark/M_Spark_03_1_4_INST' while loading NULL.
+[2019.08.01-12.42.04:451][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_01_Add_6X6_INST'
+[2019.08.01-12.42.04:451][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_01_Add_6X6_INST.M_Fire_01_Add_6X6_INST Referenced by ParticleModuleRequired_6
+[2019.08.01-12.42.04:451][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_01_Add_6X6_INST' while loading NULL.
+[2019.08.01-12.42.04:451][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_01_INST'
+[2019.08.01-12.42.04:451][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_01_INST.M_Flare_01_INST Referenced by ParticleModuleRequired_8
+[2019.08.01-12.42.04:451][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_01_INST' while loading NULL.
+[2019.08.01-12.42.04:452][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Environments/Breakables/Materials/M_Breakables_Pots_Red'
+[2019.08.01-12.42.04:452][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Environments/Breakables/Materials/M_Breakables_Pots_Red.M_Breakables_Pots_Red Referenced by ParticleModuleRequired_9
+[2019.08.01-12.42.04:452][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Environments/Breakables/Materials/M_Breakables_Pots_Red' while loading NULL.
+[2019.08.01-12.42.04:453][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_BlastWave'
+[2019.08.01-12.42.04:453][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_BlastWave.SM_BlastWave Referenced by ParticleModuleTypeDataMesh_0
+[2019.08.01-12.42.04:453][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Meshes/Skills/SM_BlastWave' while loading NULL.
+[2019.08.01-12.42.04:453][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Environments/Breakables/StaticMesh/pot1/SM_PotDebris_02'
+[2019.08.01-12.42.04:453][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Environments/Breakables/StaticMesh/pot1/SM_PotDebris_02.SM_PotDebris_02 Referenced by ParticleModuleTypeDataMesh_1
+[2019.08.01-12.42.04:453][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Environments/Breakables/StaticMesh/pot1/SM_PotDebris_02' while loading NULL.
+[2019.08.01-12.42.04:466][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Glow_Vertical_INST'
+[2019.08.01-12.42.04:466][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Glow_Vertical_INST.M_Glow_Vertical_INST Referenced by ParticleModuleRequired_0
+[2019.08.01-12.42.04:466][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Glow_Vertical_INST' while loading NULL.
+[2019.08.01-12.42.04:466][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_01_INST'
+[2019.08.01-12.42.04:466][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_01_INST.M_Flare_01_INST Referenced by ParticleModuleRequired_1
+[2019.08.01-12.42.04:466][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_01_INST' while loading NULL.
+[2019.08.01-12.42.04:467][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST'
+[2019.08.01-12.42.04:467][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST.M_Flare_03_INST Referenced by ParticleModuleRequired_15
+[2019.08.01-12.42.04:467][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST' while loading NULL.
+[2019.08.01-12.42.04:467][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST'
+[2019.08.01-12.42.04:467][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST.M_Flare_03_INST Referenced by ParticleModuleRequired_16
+[2019.08.01-12.42.04:467][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST' while loading NULL.
+[2019.08.01-12.42.04:467][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST'
+[2019.08.01-12.42.04:467][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST.M_Flare_03_INST Referenced by ParticleModuleRequired_18
+[2019.08.01-12.42.04:467][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_03_INST' while loading NULL.
+[2019.08.01-12.42.04:468][  0]LogLinker: Warning: Can't find file '/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_Heart_01_INST'
+[2019.08.01-12.42.04:468][  0]LoadErrors: Failed to load /Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_Heart_01_INST.M_Heart_01_INST Referenced by ParticleModuleRequired_5
+[2019.08.01-12.42.04:468][  0]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_Heart_01_INST' while loading NULL.
+[2019.08.01-12.42.08:545][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.08.01-12.42.08:590][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.01-12.42.08:618][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.08.01-12.42.08:618][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.01-12.42.08:618][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.154ms to complete.
+[2019.08.01-12.42.08:618][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 4.807
+[2019.08.01-12.42.08:716][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-12.42.08:722][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-12.42.08:730][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-12.42.08:736][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-12.42.08:743][  0]LogCollectionManager: Loaded 0 collections in 0.002633 seconds
+[2019.08.01-12.42.08:761][  0]LogFileCache: Scanning file cache for directory 'C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/Collections/' took 0.01s
+[2019.08.01-12.42.08:761][  0]LogFileCache: Scanning file cache for directory 'C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Content/Developers/l4/Collections/' took 0.00s
+[2019.08.01-12.42.08:762][  0]LogFileCache: Scanning file cache for directory 'C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Content/Collections/' took 0.00s
+[2019.08.01-12.42.08:762][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.08.01-12.42.08:769][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2770 classes and 666 folders.
+[2019.08.01-12.42.08:778][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.01-12.42.08:779][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-12.42.08:780][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-12.42.08:780][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-12.42.08:781][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-12.42.08:781][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-12.42.08:782][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-12.42.08:782][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-12.42.08:782][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-12.42.08:783][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-12.42.08:783][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-12.42.08:784][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-12.42.08:784][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-12.42.08:785][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-12.42.08:785][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-12.42.08:785][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-12.42.08:786][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-12.42.08:786][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-12.42.08:787][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-12.42.08:787][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-12.42.08:788][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-12.42.08:788][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-12.42.08:788][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-12.42.08:789][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-12.42.08:789][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-12.42.08:790][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-12.42.08:790][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-12.42.08:816][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.01-12.42.08:823][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.08.01-12.42.08:888][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.01-12.42.08:892][  0]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.01-12.42.08:896][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.01-12.42.08:980][  0]LogRenderer: Reallocating scene render targets to support 892x400 Format 10 NumSamples 1 (Frame:1).
+[2019.08.01-12.42.09:387][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.01-12.42.09:387][  0]LogLoad: (Engine Initialization) Total time: 14.61 seconds
+[2019.08.01-12.42.09:387][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.01-12.42.09:698][  0]LogAssetRegistry: Asset discovery search completed in 10.8844 seconds
+[2019.08.01-12.42.09:700][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.01-12.42.09:700][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2019.08.01-12.42.09:701][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.01-12.42.09:746][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Content/' took 0.08s
+[2019.08.01-12.42.12:671][176]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.01-12.42.17:886][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-12.42.18:139][502]AssetReimport: New page: Outstanding source content changes 11:42:18 PM
+[2019.08.01-12.42.18:148][503]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Content/2DSideScroller/2dGameArtSprites/GameAssestIcon/48.png)
+[2019.08.01-12.42.18:330][504]LogEditorFactories: Performing atomic reimport of [C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Content/2DSideScroller/2dGameArtSprites/GameAssestIcon/72.png]
+[2019.08.01-12.42.18:330][504]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Content/2DSideScroller/2dGameArtSprites/GameAssestIcon/72.png)
+[2019.08.01-12.42.18:348][504]LogEditorFactories: -- imported successfully
+[2019.08.01-12.42.18:376][505]LogEditorFactories: Performing atomic reimport of [C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Content/2DSideScroller/2dGameArtSprites/GameAssestIcon/96.png]
+[2019.08.01-12.42.18:376][505]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Content/2DSideScroller/2dGameArtSprites/GameAssestIcon/96.png)
+[2019.08.01-12.42.18:391][505]LogEditorFactories: -- imported successfully
+[2019.08.01-12.42.18:452][506]LogSavePackage: Moving '../../../../../../Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/4857771F5A40D39D84B0344A89A2CF49C3.tmp' to '../../../../../../Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Content/2DSideScroller/2dGameArtSprites/GameAssestIcon/48.uasset'
+[2019.08.01-12.42.18:488][506]LogSavePackage: Moving '../../../../../../Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/7277C8B7924D59FC79EA27B89F249822B4.tmp' to '../../../../../../Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Content/2DSideScroller/2dGameArtSprites/GameAssestIcon/72.uasset'
+[2019.08.01-12.42.18:521][506]LogSavePackage: Moving '../../../../../../Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/960B0707F14999FA6367ECA396BAE6CE40.tmp' to '../../../../../../Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Content/2DSideScroller/2dGameArtSprites/GameAssestIcon/96.uasset'
+[2019.08.01-12.42.21:748][699]AssetReimport: Importing new asset /Game/2DSideScroller/2dGameArtSprites/GameAssestIcon/48.
+[2019.08.01-12.42.21:748][699]AssetReimport: Reimported asset 72 from C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Content/2DSideScroller/2dGameArtSprites/GameAssestIcon/72.png.
+[2019.08.01-12.42.21:748][699]AssetReimport: Reimported asset 96 from C:/Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Content/2DSideScroller/2dGameArtSprites/GameAssestIcon/96.png.
+[2019.08.01-12.43.18:362][842]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.18:363][842]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.18:512][842]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.18:512][842]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.18:513][842]LogPackageName: SearchForPackageOnDisk took   0.134s, but failed to resolve JW_FlameDungeon.
+[2019.08.01-12.43.18:513][842]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" could not be resolved.
+[2019.08.01-12.43.18:521][842]LogPackageName: SearchForPackageOnDisk took   0.135s, but failed to resolve JW_FlameDungeon.
+[2019.08.01-12.43.18:521][842]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" could not be resolved.
+[2019.08.01-12.43.18:521][842]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.18:522][842]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.18:633][842]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.18:633][842]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.18:633][842]LogPackageName: SearchForPackageOnDisk took   0.112s, but failed to resolve JW_FlameDungeon.
+[2019.08.01-12.43.18:633][842]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" could not be resolved.
+[2019.08.01-12.43.18:634][843]LogPackageName: SearchForPackageOnDisk took   0.112s, but failed to resolve JW_FlameDungeon.
+[2019.08.01-12.43.18:634][843]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" could not be resolved.
+[2019.08.01-12.43.18:634][843]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.18:634][843]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.18:734][844]LogPackageName: SearchForPackageOnDisk took   0.098s, but failed to resolve JW_FlameDungeon.
+[2019.08.01-12.43.18:734][844]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" could not be resolved.
+[2019.08.01-12.43.18:734][844]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.18:734][844]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.19:075][845]LogPackageName: SearchForPackageOnDisk took   0.098s, but failed to resolve JW_FlameDungeon.
+[2019.08.01-12.43.19:075][845]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" could not be resolved.
+[2019.08.01-12.43.19:075][845]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.19:075][845]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.19:075][845]LogPackageName: SearchForPackageOnDisk took   0.099s, but failed to resolve JW_FlameDungeon.
+[2019.08.01-12.43.19:075][845]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" could not be resolved.
+[2019.08.01-12.43.19:075][845]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.19:075][845]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.19:075][845]LogPackageName: SearchForPackageOnDisk took   0.111s, but failed to resolve JW_FlameDungeon.
+[2019.08.01-12.43.19:075][845]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" could not be resolved.
+[2019.08.01-12.43.19:075][845]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.19:075][845]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.19:404][846]LogPackageName: SearchForPackageOnDisk took   0.107s, but failed to resolve JW_FlameDungeon.
+[2019.08.01-12.43.19:404][846]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" could not be resolved.
+[2019.08.01-12.43.19:404][846]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.19:404][846]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.19:404][846]LogPackageName: SearchForPackageOnDisk took   0.103s, but failed to resolve JW_FlameDungeon.
+[2019.08.01-12.43.19:404][846]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" could not be resolved.
+[2019.08.01-12.43.28:425][872]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.28:425][872]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.28:533][872]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.28:533][872]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.28:533][872]LogPackageName: SearchForPackageOnDisk took   0.107s, but failed to resolve StaticMesh'FX_Meshes_IB.
+[2019.08.01-12.43.28:533][872]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" could not be resolved.
+[2019.08.01-12.43.28:768][874]LogPackageName: SearchForPackageOnDisk took   0.199s, but failed to resolve StaticMesh'FX_Meshes_IB.
+[2019.08.01-12.43.28:769][874]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" could not be resolved.
+[2019.08.01-12.43.29:764][876]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.29:764][876]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.29:909][876]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.29:909][876]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.29:909][876]LogPackageName: SearchForPackageOnDisk took   0.144s, but failed to resolve JW_Ice_Mountain.
+[2019.08.01-12.43.29:909][876]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2019.08.01-12.43.29:909][876]LogPackageName: SearchForPackageOnDisk took   0.145s, but failed to resolve JW_Ice_Mountain.
+[2019.08.01-12.43.29:909][876]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2019.08.01-12.43.29:922][877]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.29:922][877]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.30:092][878]LogPackageName: SearchForPackageOnDisk took   0.106s, but failed to resolve JW_Ice_Mountain.
+[2019.08.01-12.43.30:092][878]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2019.08.01-12.43.31:093][880]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.31:093][880]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.31:201][880]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.31:201][880]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.31:201][880]LogPackageName: SearchForPackageOnDisk took   0.109s, but failed to resolve FX_Meshes.
+[2019.08.01-12.43.31:201][880]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2019.08.01-12.43.31:412][881]LogPackageName: SearchForPackageOnDisk took   0.117s, but failed to resolve FX_Meshes.
+[2019.08.01-12.43.31:412][881]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2019.08.01-12.43.31:412][881]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.31:412][881]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.31:412][881]LogPackageName: SearchForPackageOnDisk took   0.105s, but failed to resolve FX_Meshes.
+[2019.08.01-12.43.31:412][881]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2019.08.01-12.43.31:412][881]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.31:412][881]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.31:520][881]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.31:520][881]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.31:520][881]LogPackageName: SearchForPackageOnDisk took   0.108s, but failed to resolve FX_Meshes.
+[2019.08.01-12.43.31:520][881]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2019.08.01-12.43.31:773][883]LogPackageName: SearchForPackageOnDisk took   0.107s, but failed to resolve FX_Meshes.
+[2019.08.01-12.43.31:773][883]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2019.08.01-12.43.32:102][883]LogPackageName: Warning: Asset path "'FX_Ambient.Meshes.SM_Bats'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.32:102][883]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.32:207][883]LogPackageName: Warning: Asset path "'FX_Ambient.Meshes.SM_Bats'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.32:207][883]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.32:207][883]LogPackageName: SearchForPackageOnDisk took   0.105s, but failed to resolve 'FX_Ambient.
+[2019.08.01-12.43.32:207][883]LogPackageName: Warning: Asset path "'FX_Ambient.Meshes.SM_Bats'" could not be resolved.
+[2019.08.01-12.43.32:447][884]LogPackageName: SearchForPackageOnDisk took   0.106s, but failed to resolve 'FX_Ambient.
+[2019.08.01-12.43.32:447][884]LogPackageName: Warning: Asset path "'FX_Ambient.Meshes.SM_Bats'" could not be resolved.
+[2019.08.01-12.43.32:447][884]LogPackageName: Warning: Asset path "CastleEffects.TouchToMoveArrow" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.32:447][884]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.32:561][884]LogPackageName: Warning: Asset path "CastleEffects.TouchToMoveArrow" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.32:561][884]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.32:561][884]LogPackageName: SearchForPackageOnDisk took   0.114s, but failed to resolve CastleEffects.
+[2019.08.01-12.43.32:561][884]LogPackageName: Warning: Asset path "CastleEffects.TouchToMoveArrow" could not be resolved.
+[2019.08.01-12.43.32:783][886]LogPackageName: SearchForPackageOnDisk took   0.116s, but failed to resolve CastleEffects.
+[2019.08.01-12.43.32:783][886]LogPackageName: Warning: Asset path "CastleEffects.TouchToMoveArrow" could not be resolved.
+[2019.08.01-12.43.35:434][893]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.35:434][893]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.35:434][893]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.35:567][893]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.35:567][893]LogPackageName: SearchForPackageOnDisk took   0.134s, but failed to resolve StaticMesh'FX_Meshes.
+[2019.08.01-12.43.35:568][893]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" could not be resolved.
+[2019.08.01-12.43.35:573][893]LogPackageName: SearchForPackageOnDisk took   0.134s, but failed to resolve StaticMesh'FX_Meshes.
+[2019.08.01-12.43.35:573][893]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" could not be resolved.
+[2019.08.01-12.43.35:573][893]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.35:573][893]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.35:734][893]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.35:735][893]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.35:735][893]LogPackageName: SearchForPackageOnDisk took   0.161s, but failed to resolve m_FogSheet_02.
+[2019.08.01-12.43.35:735][893]LogPackageName: Warning: Asset path "m_FogSheet_02" could not be resolved.
+[2019.08.01-12.43.35:754][894]LogPackageName: SearchForPackageOnDisk took   0.161s, but failed to resolve m_FogSheet_02.
+[2019.08.01-12.43.35:754][894]LogPackageName: Warning: Asset path "m_FogSheet_02" could not be resolved.
+[2019.08.01-12.43.37:444][899]LogPackageName: Warning: Asset path "FX_Test_LAN.Meshes.SM_IceWall01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.37:444][899]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.37:557][899]LogPackageName: Warning: Asset path "FX_Test_LAN.Meshes.SM_IceWall01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.37:557][899]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.37:557][899]LogPackageName: SearchForPackageOnDisk took   0.113s, but failed to resolve FX_Test_LAN.
+[2019.08.01-12.43.37:557][899]LogPackageName: Warning: Asset path "FX_Test_LAN.Meshes.SM_IceWall01" could not be resolved.
+[2019.08.01-12.43.37:611][900]LogPackageName: SearchForPackageOnDisk took   0.116s, but failed to resolve FX_Test_LAN.
+[2019.08.01-12.43.37:611][900]LogPackageName: Warning: Asset path "FX_Test_LAN.Meshes.SM_IceWall01" could not be resolved.
+[2019.08.01-12.43.40:472][908]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.40:472][908]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.40:577][908]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.40:577][908]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.40:577][908]LogPackageName: SearchForPackageOnDisk took   0.105s, but failed to resolve m_FogSheet_02.
+[2019.08.01-12.43.40:577][908]LogPackageName: Warning: Asset path "m_FogSheet_02" could not be resolved.
+[2019.08.01-12.43.40:581][908]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.40:581][908]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.40:693][908]LogPackageName: SearchForPackageOnDisk took   0.131s, but failed to resolve m_FogSheet_02.
+[2019.08.01-12.43.40:693][908]LogPackageName: Warning: Asset path "m_FogSheet_02" could not be resolved.
+[2019.08.01-12.43.40:693][908]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.40:693][908]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.40:693][908]LogPackageName: SearchForPackageOnDisk took   0.112s, but failed to resolve m_FogSheet_02.
+[2019.08.01-12.43.40:693][908]LogPackageName: Warning: Asset path "m_FogSheet_02" could not be resolved.
+[2019.08.01-12.43.40:698][908]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.40:698][908]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.40:815][908]LogPackageName: SearchForPackageOnDisk took   0.114s, but failed to resolve m_FogSheet_02.
+[2019.08.01-12.43.40:815][908]LogPackageName: Warning: Asset path "m_FogSheet_02" could not be resolved.
+[2019.08.01-12.43.40:816][908]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.40:816][908]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.40:816][908]LogPackageName: SearchForPackageOnDisk took   0.117s, but failed to resolve m_FogSheet_02.
+[2019.08.01-12.43.40:816][908]LogPackageName: Warning: Asset path "m_FogSheet_02" could not be resolved.
+[2019.08.01-12.43.40:898][910]LogPackageName: SearchForPackageOnDisk took   0.115s, but failed to resolve m_FogSheet_02.
+[2019.08.01-12.43.40:898][910]LogPackageName: Warning: Asset path "m_FogSheet_02" could not be resolved.
+[2019.08.01-12.43.40:898][910]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.40:898][910]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.41:200][911]LogPackageName: SearchForPackageOnDisk took   0.105s, but failed to resolve m_FogSheet_02.
+[2019.08.01-12.43.41:200][911]LogPackageName: Warning: Asset path "m_FogSheet_02" could not be resolved.
+[2019.08.01-12.43.41:200][911]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.41:200][911]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.41:200][911]LogPackageName: SearchForPackageOnDisk took   0.103s, but failed to resolve m_FogSheet_02.
+[2019.08.01-12.43.41:200][911]LogPackageName: Warning: Asset path "m_FogSheet_02" could not be resolved.
+[2019.08.01-12.43.41:200][911]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.43.41:200][911]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.43.41:555][912]LogPackageName: SearchForPackageOnDisk took   0.109s, but failed to resolve m_FogSheet_02.
+[2019.08.01-12.43.41:555][912]LogPackageName: Warning: Asset path "m_FogSheet_02" could not be resolved.
+[2019.08.01-12.44.30:829][ 58]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.44.30:829][ 58]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.44.31:005][ 58]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.44.31:005][ 58]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.44.31:005][ 58]LogPackageName: SearchForPackageOnDisk took   0.175s, but failed to resolve JW_Ice_Mountain.
+[2019.08.01-12.44.31:005][ 58]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2019.08.01-12.44.31:022][ 59]LogPackageName: SearchForPackageOnDisk took   0.172s, but failed to resolve JW_Ice_Mountain.
+[2019.08.01-12.44.31:022][ 59]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2019.08.01-12.44.31:022][ 59]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.44.31:022][ 59]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.44.31:139][ 59]LogPackageName: Warning: Asset path "S_Survival_CA_Chicken_02.SM.S_Survival_CA_Chicken_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.44.31:139][ 59]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.44.31:408][ 59]LogPackageName: SearchForPackageOnDisk took   0.133s, but failed to resolve JW_Ice_Mountain.
+[2019.08.01-12.44.31:408][ 59]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2019.08.01-12.44.31:408][ 59]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.44.31:408][ 59]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.44.31:408][ 59]LogPackageName: SearchForPackageOnDisk took   0.269s to resolve S_Survival_CA_Chicken_02.
+[2019.08.01-12.44.31:433][ 60]LogPackageName: SearchForPackageOnDisk took   0.258s, but failed to resolve JW_Ice_Mountain.
+[2019.08.01-12.44.31:433][ 60]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2019.08.01-12.44.31:433][ 60]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.44.31:433][ 60]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.44.31:809][ 62]LogPackageName: SearchForPackageOnDisk took   0.130s, but failed to resolve JW_Ice_Mountain.
+[2019.08.01-12.44.31:809][ 62]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2019.08.01-12.44.31:809][ 62]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.44.31:809][ 62]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.44.31:809][ 62]LogPackageName: SearchForPackageOnDisk took   0.130s, but failed to resolve JW_Ice_Mountain.
+[2019.08.01-12.44.31:809][ 62]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2019.08.01-12.44.31:809][ 62]LogPackageName: Warning: Asset path "S_Survival_CA_Chicken_02.SM.S_Survival_CA_Chicken_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.44.31:809][ 62]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.44.31:809][ 62]LogPackageName: SearchForPackageOnDisk took   0.127s to resolve S_Survival_CA_Chicken_02.
+[2019.08.01-12.44.31:809][ 62]LogPackageName: Warning: Asset path "S_Survival_CA_Chicken_02.SM.S_Survival_CA_Chicken_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.44.31:809][ 62]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.44.32:220][ 63]LogPackageName: SearchForPackageOnDisk took   0.125s to resolve S_Survival_CA_Chicken_02.
+[2019.08.01-12.44.32:220][ 63]LogPackageName: Warning: Asset path "S_Survival_CA_Chicken_02.SM.S_Survival_CA_Chicken_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.44.32:220][ 63]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.44.32:220][ 63]LogPackageName: SearchForPackageOnDisk took   0.126s to resolve S_Survival_CA_Chicken_02.
+[2019.08.01-12.44.32:220][ 63]LogPackageName: Warning: Asset path "S_Survival_CA_Chicken_02.SM.S_Survival_CA_Chicken_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.44.32:220][ 63]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.44.32:642][ 64]LogPackageName: SearchForPackageOnDisk took   0.173s to resolve S_Survival_CA_Chicken_02.
+[2019.08.01-12.44.35:507][ 72]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.44.35:507][ 72]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.44.35:644][ 72]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.44.35:644][ 72]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.44.35:644][ 72]LogPackageName: SearchForPackageOnDisk took   0.138s, but failed to resolve JW_Ice_Mountain.
+[2019.08.01-12.44.35:644][ 72]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2019.08.01-12.44.36:035][ 74]LogPackageName: SearchForPackageOnDisk took   0.237s, but failed to resolve JW_Ice_Mountain.
+[2019.08.01-12.44.36:035][ 74]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2019.08.01-12.44.36:035][ 74]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.44.36:036][ 74]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.44.36:167][ 75]LogPackageName: SearchForPackageOnDisk took   0.215s, but failed to resolve JW_Ice_Mountain.
+[2019.08.01-12.44.36:167][ 75]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2019.08.01-12.44.36:167][ 75]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.44.36:167][ 75]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.44.36:505][ 75]LogPackageName: SearchForPackageOnDisk took   0.135s, but failed to resolve JW_Ice_Mountain.
+[2019.08.01-12.44.36:505][ 75]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2019.08.01-12.44.36:505][ 75]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.44.36:505][ 75]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.44.36:658][ 75]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2019.08.01-12.44.36:658][ 75]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2019.08.01-12.44.36:659][ 75]LogPackageName: SearchForPackageOnDisk took   0.153s, but failed to resolve Env_ALL_Artifacts.
+[2019.08.01-12.44.36:659][ 75]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2019.08.01-12.44.36:882][ 77]LogPackageName: SearchForPackageOnDisk took   0.149s, but failed to resolve Env_ALL_Artifacts.
+[2019.08.01-12.44.36:882][ 77]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2019.08.01-12.44.40:543][ 87]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.01-12.44.58:089][ 13]LogTexture: Display: Building textures: T_Lava_Flows (AutoDXT, 1024X1024)
+[2019.08.01-12.44.58:089][ 13]LogMaterial: Display: Missing cached shader map for material M_Lava_flows_trans, compiling. 
+[2019.08.01-12.44.58:207][ 13]LogAssetEditorManager: Opening Asset editor for Material /Game/InfinityBladeEffects/Environments/Fire/Env_Fire_Magma/Materials/M_Lava_flows_trans.M_Lava_flows_trans
+[2019.08.01-12.44.58:339][ 13]LogMaterial: Display: Missing cached shader map for material M_Lava_flows_trans, compiling. 
+[2019.08.01-12.44.59:717][ 13]LogMaterial: Display: Missing cached shader map for material M_Lava_flows_trans, compiling. 
+[2019.08.01-12.44.59:876][ 13]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.08.01-12.45.00:153][ 13]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.01-12.45.01:214][ 16]LogSlate: Took 0.000357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.01-12.45.02:113][ 33]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.08.01-12.45.04:312][ 78]LogSlate: Window 'M_Lava_flows_trans' being destroyed
+[2019.08.01-12.45.04:547][ 78]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.08.01-12.45.09:109][174]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.08.01-12.45.11:973][280]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.01-12.45.14:501][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-12.45.14:561][370]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.01-12.45.14:588][370]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.08.01-12.45.14:589][370]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.01-12.45.14:589][370]PIE: New page: PIE session: 2DSideScrollerExampleMap (Aug 1, 2019, 11:45:14 PM)
+[2019.08.01-12.45.14:603][370]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.08.01-12.45.14:621][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016870s)
+[2019.08.01-12.45.14:622][370]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.08.01-12.45.14:623][370]LogPlayLevel: PIE: World Init took: (0.001402s)
+[2019.08.01-12.45.14:623][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.018988s)
+[2019.08.01-12.45.14:682][370]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2019.08.01-12.45.14:692][370]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.01-12.45.14:717][370]LogInit: FAudioDevice initialized.
+[2019.08.01-12.45.14:763][370]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.08.01-12.45.14:769][370]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2019.08.01-18.15.14
+[2019.08.01-12.45.14:773][370]LogWorld: Bringing up level for play took: 0.006186
+[2019.08.01-12.45.14:804][370]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 20 classes and 0 folders.
+[2019.08.01-12.45.14:813][370]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.638
+[2019.08.01-12.45.14:813][370]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.08.01-12.45.15:694][400]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.08.01-12.45.25:351][936]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.08.01-12.45.25:352][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-12.45.25:380][936]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.01-12.45.25:380][936]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.08.01-12.45.25:411][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-12.45.25:415][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.08.01-12.45.25:460][939]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.08.01-12.45.39:478][642]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.08.01-12.45.39:491][642]LogHoudiniEngine: Error: Hapi failed: 
+[2019.08.01-12.46.03:367][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.08.01-12.46.03:489][ 45]LogSavePackage: Moving '../../../../../../Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/2DSideScrollerExampleMapEE06CE954B14855423E7988FD5E8B515.tmp' to '../../../../../../Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2019.08.01-12.46.03:524][ 45]LogSavePackage: Moving '../../../../../../Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/2DSideScrollerExampleMap_BuiltDaD7599D704085B691D682E488C9FAD16F.tmp' to '../../../../../../Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2019.08.01-12.46.04:430][ 96]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.01-12.46.04:444][ 96]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.08.01-12.46.04:444][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.01-12.46.04:444][ 96]PIE: New page: PIE session: 2DSideScrollerExampleMap (Aug 1, 2019, 11:46:04 PM)
+[2019.08.01-12.46.04:445][ 96]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.08.01-12.46.04:449][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004162s)
+[2019.08.01-12.46.04:449][ 96]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.08.01-12.46.04:450][ 96]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2019.08.01-12.46.04:450][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.005315s)
+[2019.08.01-12.46.04:479][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.08.01-12.46.04:489][ 96]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.01-12.46.04:505][ 96]LogInit: FAudioDevice initialized.
+[2019.08.01-12.46.04:536][ 96]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.08.01-12.46.04:538][ 96]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2019.08.01-18.16.04
+[2019.08.01-12.46.04:538][ 96]LogWorld: Bringing up level for play took: 0.001806
+[2019.08.01-12.46.04:554][ 96]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.38
+[2019.08.01-12.46.04:555][ 96]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.08.01-12.46.06:877][231]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.08.01-12.46.06:878][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-12.46.06:910][231]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.01-12.46.06:910][231]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.08.01-12.46.06:937][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-12.46.06:940][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.08.01-12.46.06:986][234]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.08.01-12.46.09:415][327]LogHttp: Warning: 0000026D273EC180: request failed, libcurl error: 28 (Timeout was reached)
+[2019.08.01-12.46.09:416][327]LogHttp: Warning: 0000026D273EC180: libcurl info message cache 0 (Connection 0 seems to be dead!)
+[2019.08.01-12.46.09:416][327]LogHttp: Warning: 0000026D273EC180: libcurl info message cache 1 (Closing connection 0)
+[2019.08.01-12.46.09:416][327]LogHttp: Warning: 0000026D273EC180: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.08.01-12.46.09:416][327]LogHttp: Warning: 0000026D273EC180: libcurl info message cache 3 (  Trying 54.88.250.173...)
+[2019.08.01-12.46.09:416][327]LogHttp: Warning: 0000026D273EC180: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.08.01-12.46.09:416][327]LogHttp: Warning: 0000026D273EC180: libcurl info message cache 5 (Connected to datarouter.ol.epicgames.com (54.88.250.173) port 443 (#1))
+[2019.08.01-12.46.09:416][327]LogHttp: Warning: 0000026D273EC180: libcurl info message cache 6 (ALPN, offering http/1.1)
+[2019.08.01-12.46.09:416][327]LogHttp: Warning: 0000026D273EC180: libcurl info message cache 7 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.08.01-12.46.09:416][327]LogHttp: Warning: 0000026D273EC180: libcurl info message cache 8 (SSL re-using session ID)
+[2019.08.01-12.46.09:416][327]LogHttp: Warning: 0000026D273EC180: libcurl info message cache 9 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.08.01-12.46.09:416][327]LogHttp: Warning: 0000026D273EC180: libcurl info message cache 10 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2019.08.01-12.46.09:416][327]LogHttp: Warning: 0000026D273EC180: libcurl info message cache 11 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2019.08.01-12.46.09:416][327]LogHttp: Warning: 0000026D273EC180: libcurl info message cache 12 (Closing connection 1)
+[2019.08.01-12.46.09:429][328]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB0327D5E-4C89-435A-42DF-9AA6B3A91456%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=184e7df147e0b4a41582578f0e6abbfb%7Cc3d3f25cacb44935909ffb8d0213d815%7Ce647c2a5-7299-428e-b72d-75e507b47415&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.01-12.46.28:542][336]LogAIModule: Creating AISystem for world Level1
+[2019.08.01-12.46.28:623][336]LogAssetEditorManager: Opening Asset editor for World /Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1
+[2019.08.01-12.46.28:657][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.08.01-12.46.28:658][336]Cmd: MAP LOAD FILE="../../../../../../Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Content/2DSideScroller/2dGameArtSprites/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.01-12.46.28:658][336]LightingResults: New page: Lighting Build
+[2019.08.01-12.46.28:659][336]LoadErrors: New page: Loading map: Level1.umap
+[2019.08.01-12.46.28:660][336]MapCheck: New page: Map Check
+[2019.08.01-12.46.28:660][336]LightingResults: New page: Lighting Build
+[2019.08.01-12.46.28:691][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.08.01-12.46.28:724][336]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel) is flushing async loading
+[2019.08.01-12.46.28:724][336]LogStreaming: Display: Flushing async loaders.
+[2019.08.01-12.46.29:021][336]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.01-12.46.29:050][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.08.01-12.46.29:072][336]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.01-12.46.29:072][336]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1' which isn't loaded.
+[2019.08.01-12.46.29:072][336]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/2DSideScroller/2dGameArtSprites/Levels/Level2' which isn't loaded.
+[2019.08.01-12.46.29:072][336]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/2DSideScroller/2dGameArtSprites/Levels/Level3' which isn't loaded.
+[2019.08.01-12.46.29:072][336]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.273ms to complete.
+[2019.08.01-12.46.29:072][336]LogFileHelpers: Loading map 'Level1' took 0.414
+[2019.08.01-12.46.34:102][616]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.01-12.46.34:122][616]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.01-12.46.34:122][616]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel.TitleMenusLevel' with GeneratedClass '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel_C' with ClassGeneratedBy '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel.TitleMenusLevel'
+[2019.08.01-12.46.34:122][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.01-12.46.34:122][616]PIE: New page: PIE session: Level1 (Aug 1, 2019, 11:46:34 PM)
+[2019.08.01-12.46.34:122][616]LogPlayLevel: Creating play world package: /Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_Level1
+[2019.08.01-12.46.34:132][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009141s)
+[2019.08.01-12.46.34:132][616]LogAIModule: Creating AISystem for world Level1
+[2019.08.01-12.46.34:132][616]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2019.08.01-12.46.34:132][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1 to /Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_Level1.Level1 (0.010312s)
+[2019.08.01-12.46.34:174][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.08.01-12.46.34:180][616]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.01-12.46.34:195][616]LogInit: FAudioDevice initialized.
+[2019.08.01-12.46.34:223][616]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.08.01-12.46.34:226][616]LogWorld: Bringing World /Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.01-18.16.34
+[2019.08.01-12.46.34:227][616]LogWorld: Bringing up level for play took: 0.003801
+[2019.08.01-12.46.34:244][616]PIE: Play in editor start time for /Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_Level1 0.07
+[2019.08.01-12.46.34:245][616]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.01-12.46.34:245][616]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel.TitleMenusLevel' with GeneratedClass '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel_C' with ClassGeneratedBy '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel.TitleMenusLevel'
+[2019.08.01-12.46.42:181][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-12.46.45:214][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-12.46.45:984][313]LogBlueprintUserMessages: [particle_C_0] 2
+[2019.08.01-12.46.45:989][313]LogBlueprintUserMessages: [particle_C_0] 3
+[2019.08.01-12.46.49:270][510]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.01-12.46.49:270][510]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel.TitleMenusLevel' with GeneratedClass '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel_C' with ClassGeneratedBy '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel.TitleMenusLevel'
+[2019.08.01-12.46.49:271][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-12.46.49:299][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.01-12.46.49:299][510]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.01-12.46.49:299][510]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel.TitleMenusLevel' with GeneratedClass '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel_C' with ClassGeneratedBy '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel.TitleMenusLevel'
+[2019.08.01-12.46.49:333][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-12.46.49:338][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.08.01-12.46.49:385][513]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.08.01-12.47.01:352][157]MapCheck: New page: Map Check
+[2019.08.01-12.47.01:419][157]Cmd: MAP REBUILD ALLVISIBLE
+[2019.08.01-12.47.01:424][157]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.08.01-12.47.01:748][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.08.01-12.47.01:855][157]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.01-12.47.01:864][157]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.01-12.47.01:872][157]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.01-12.47.01:879][157]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.01-12.47.02:738][157]TextureStreamingBuild: Display: Compiling optional shaders took 0.949 seconds.
+[2019.08.01-12.47.02:873][157]LogLevel: Display: Export Material TexCoord Scales took 0.135 seconds.
+[2019.08.01-12.47.02:910][157]TextureStreamingBuild: Display: Build Texture Streaming took 0.015 seconds.
+[2019.08.01-12.47.02:937][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.08.01-12.47.03:118][157]LightingResults: New page: Lighting Build - Aug 1, 2019, 11:47:03 PM
+[2019.08.01-12.47.03:617][157]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.08.01-12.47.03:709][157]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.08.01-12.47.03:876][157]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.08.01-12.47.07:808][157]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.08.01-12.47.07:808][157]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6812
+[2019.08.01-12.47.29:683][157]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.08.01-12.47.29:683][157]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.08.01-12.47.29:683][157]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.08.01-12.47.29:683][157]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.08.01-12.47.29:683][157]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.08.01-12.47.29:684][157]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.08.01-12.47.30:062][157]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.08.01-12.47.30:062][157]MapCheck: New page: Level1 - Aug 1, 2019, 11:47:30 PM
+[2019.08.01-12.47.30:062][157]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1' which isn't loaded.
+[2019.08.01-12.47.30:062][157]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/2DSideScroller/2dGameArtSprites/Levels/Level2' which isn't loaded.
+[2019.08.01-12.47.30:062][157]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/2DSideScroller/2dGameArtSprites/Levels/Level3' which isn't loaded.
+[2019.08.01-12.47.30:118][157]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.631ms to complete.
+[2019.08.01-12.47.30:148][157]LogEditorBuildUtils: Build time 0:28
+[2019.08.01-12.47.30:284][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.08.01-12.47.34:068][287]Job is a success!
+[2019.08.01-12.47.34:245][288]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.039s
+[2019.08.01-12.47.34:245][288]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.08.01-12.47.34:245][288]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2019.08.01-12.47.34:245][288]LogVolumetricLightmapImport:      Bricks at Level
+[2019.08.01-12.47.34:245][288]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2019.08.01-12.47.34:245][288]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2019.08.01-12.47.34:245][288]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.08.01-12.47.34:480][288]Lightmass on DESKTOP-K6DAKET: 1.99 sec total, 398 ms importing, 99 ms setup, 410 ms photons, 715 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 4.83 sec total, 0 ms processing.
+[2019.08.01-12.47.34:540][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.08.01-12.47.34:564][288]LogStaticLightingSystem: Illumination: 31.4 sec (0 ms encoding lightmaps, 12 ms encoding shadowmaps)
+[2019.08.01-12.47.34:564][288]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.08.01-12.47.34:564][288]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.08.01-12.47.34:662][288]DumpUnbuiltLightIteractions
+[2019.08.01-12.47.34:662][288]Lights with unbuilt interactions: 0
+[2019.08.01-12.47.34:662][288]
+[2019.08.01-12.47.34:662][288]Primitives with unbuilt interactions: 0
+[2019.08.01-12.47.34:715][289]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.08.01-12.47.34:715][289]MapCheck: New page: Level1 - Aug 1, 2019, 11:47:34 PM
+[2019.08.01-12.47.34:715][289]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1' which isn't loaded.
+[2019.08.01-12.47.34:715][289]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/2DSideScroller/2dGameArtSprites/Levels/Level2' which isn't loaded.
+[2019.08.01-12.47.34:715][289]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/2DSideScroller/2dGameArtSprites/Levels/Level3' which isn't loaded.
+[2019.08.01-12.47.34:716][289]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.547ms to complete.
+[2019.08.01-12.47.54:041][395]Cmd: MAP CHECK
+[2019.08.01-12.47.54:041][395]MapCheck: New page: Level1 - Aug 1, 2019, 11:47:54 PM
+[2019.08.01-12.47.54:041][395]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1' which isn't loaded.
+[2019.08.01-12.47.54:041][395]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/2DSideScroller/2dGameArtSprites/Levels/Level2' which isn't loaded.
+[2019.08.01-12.47.54:041][395]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/2DSideScroller/2dGameArtSprites/Levels/Level3' which isn't loaded.
+[2019.08.01-12.47.54:042][395]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.543ms to complete.
+[2019.08.01-12.47.56:331][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.08.01-12.47.56:488][529]LogSavePackage: Moving '../../../../../../Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/Level1427B320F42361D3A53DC0A9DCDAE61CF.tmp' to '../../../../../../Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Content/2DSideScroller/2dGameArtSprites/Levels/Level1.umap'
+[2019.08.01-12.47.56:522][529]LogSavePackage: Moving '../../../../../../Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Saved/Level1_BuiltDataDEC523FD40F1AE9C667309B7716075B5.tmp' to '../../../../../../Users/l4/Documents/Unreal Projects/TwoAgainOpenSource/Content/2DSideScroller/2dGameArtSprites/Levels/Level1_BuiltData.uasset'
+[2019.08.01-12.48.01:134][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-12.48.09:418][200]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (39.185 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-12.49.39:555][443]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.01-12.49.39:567][443]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.01-12.49.39:568][443]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel.TitleMenusLevel' with GeneratedClass '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel_C' with ClassGeneratedBy '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel.TitleMenusLevel'
+[2019.08.01-12.49.39:568][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.01-12.49.39:568][443]PIE: New page: PIE session: Level1 (Aug 1, 2019, 11:49:39 PM)
+[2019.08.01-12.49.39:568][443]LogPlayLevel: Creating play world package: /Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_Level1
+[2019.08.01-12.49.39:574][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006015s)
+[2019.08.01-12.49.39:575][443]LogAIModule: Creating AISystem for world Level1
+[2019.08.01-12.49.39:575][443]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2019.08.01-12.49.39:575][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1 to /Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_Level1.Level1 (0.007097s)
+[2019.08.01-12.49.39:599][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.08.01-12.49.39:603][443]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.01-12.49.39:613][443]LogInit: FAudioDevice initialized.
+[2019.08.01-12.49.39:647][443]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.08.01-12.49.39:650][443]LogWorld: Bringing World /Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.01-18.19.39
+[2019.08.01-12.49.39:651][443]LogWorld: Bringing up level for play took: 0.002752
+[2019.08.01-12.49.39:667][443]PIE: Play in editor start time for /Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_Level1 -0.508
+[2019.08.01-12.49.39:667][443]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.01-12.49.39:667][443]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel.TitleMenusLevel' with GeneratedClass '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel_C' with ClassGeneratedBy '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel.TitleMenusLevel'
+[2019.08.01-12.49.49:105][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-12.49.49:190][889]LogNet: Browse: /Game/2DSideScroller/2dGameArtSprites/Levels/Level1
+[2019.08.01-12.49.49:191][889]LogLoad: LoadMap: /Game/2DSideScroller/2dGameArtSprites/Levels/Level1
+[2019.08.01-12.49.49:235][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.08.01-12.49.49:236][889]LogPlayLevel: Creating play world package: /Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_Level1
+[2019.08.01-12.49.49:244][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008570s)
+[2019.08.01-12.49.49:245][889]LogAIModule: Creating AISystem for world Level1
+[2019.08.01-12.49.49:296][889]LogPlayLevel: PIE: World Init took: (0.052135s)
+[2019.08.01-12.49.49:297][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1 to /Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_Level1.Level1 (0.060968s)
+[2019.08.01-12.49.49:297][889]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.08.01-12.49.49:300][889]LogWorld: Bringing World /Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.01-18.19.49
+[2019.08.01-12.49.49:302][889]LogWorld: Bringing up level for play took: 0.004699
+[2019.08.01-12.49.49:308][889]LogLoad: Took 0.117098 seconds to LoadMap(/Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_Level1)
+[2019.08.01-12.49.52:460][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-12.49.54:116][169]LogBlueprintUserMessages: [particle_C_0] 2
+[2019.08.01-12.49.56:936][328]LogBlueprintUserMessages: [particle_C_1] 2
+[2019.08.01-12.50.00:436][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-12.50.02:451][642]LogNet: Browse: /Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel
+[2019.08.01-12.50.02:452][642]LogLoad: LoadMap: /Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel
+[2019.08.01-12.50.02:498][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.08.01-12.50.02:498][642]LogPlayLevel: Creating play world package: /Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_TitleMenusLevel
+[2019.08.01-12.50.02:500][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001913s)
+[2019.08.01-12.50.02:501][642]LogAIModule: Creating AISystem for world TitleMenusLevel
+[2019.08.01-12.50.02:501][642]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2019.08.01-12.50.02:501][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel to /Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_TitleMenusLevel.TitleMenusLevel (0.003183s)
+[2019.08.01-12.50.02:501][642]LogLoad: Game class is 'StartGameMode_C'
+[2019.08.01-12.50.02:503][642]LogWorld: Bringing World /Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_TitleMenusLevel.TitleMenusLevel up for play (max tick rate 60) at 2019.08.01-18.20.02
+[2019.08.01-12.50.02:503][642]LogWorld: Bringing up level for play took: 0.000811
+[2019.08.01-12.50.02:504][642]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.08.01-12.50.02:505][642]LogLoad: Took 0.052881 seconds to LoadMap(/Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_TitleMenusLevel)
+[2019.08.01-12.50.06:288][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-12.50.07:439][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-12.50.07:439][884]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.01-12.50.07:439][884]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel.TitleMenusLevel' with GeneratedClass '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel_C' with ClassGeneratedBy '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel.TitleMenusLevel'
+[2019.08.01-12.50.07:466][884]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.01-12.50.07:466][884]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.01-12.50.07:466][884]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel.TitleMenusLevel' with GeneratedClass '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel_C' with ClassGeneratedBy '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel.TitleMenusLevel'
+[2019.08.01-12.50.07:503][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-12.50.07:508][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.08.01-12.50.07:674][885]LogEditorViewport: Clicking Background
+[2019.08.01-12.50.07:720][885]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.08.01-12.50.11:800][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-12.50.11:856][ 76]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.01-12.50.11:887][ 76]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.01-12.50.11:887][ 76]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel.TitleMenusLevel' with GeneratedClass '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel_C' with ClassGeneratedBy '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel.TitleMenusLevel'
+[2019.08.01-12.50.11:888][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.01-12.50.11:888][ 76]PIE: New page: PIE session: Level1 (Aug 1, 2019, 11:50:11 PM)
+[2019.08.01-12.50.11:888][ 76]LogPlayLevel: Creating play world package: /Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_Level1
+[2019.08.01-12.50.11:901][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012729s)
+[2019.08.01-12.50.11:902][ 76]LogAIModule: Creating AISystem for world Level1
+[2019.08.01-12.50.11:902][ 76]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2019.08.01-12.50.11:902][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1 to /Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_Level1.Level1 (0.013758s)
+[2019.08.01-12.50.11:944][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.08.01-12.50.11:951][ 76]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.01-12.50.11:967][ 76]LogInit: FAudioDevice initialized.
+[2019.08.01-12.50.12:008][ 76]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.08.01-12.50.12:014][ 76]LogWorld: Bringing World /Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.01-18.20.12
+[2019.08.01-12.50.12:015][ 76]LogWorld: Bringing up level for play took: 0.006147
+[2019.08.01-12.50.12:033][ 76]PIE: Play in editor start time for /Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_Level1 -0.142
+[2019.08.01-12.50.12:034][ 76]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.01-12.50.12:034][ 76]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel.TitleMenusLevel' with GeneratedClass '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel_C' with ClassGeneratedBy '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel.TitleMenusLevel'
+[2019.08.01-12.50.17:078][356]LogNet: Browse: /Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel
+[2019.08.01-12.50.17:079][356]LogLoad: LoadMap: /Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel
+[2019.08.01-12.50.17:116][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.08.01-12.50.17:116][356]LogPlayLevel: Creating play world package: /Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_TitleMenusLevel
+[2019.08.01-12.50.17:118][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001612s)
+[2019.08.01-12.50.17:118][356]LogAIModule: Creating AISystem for world TitleMenusLevel
+[2019.08.01-12.50.17:119][356]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2019.08.01-12.50.17:119][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel to /Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_TitleMenusLevel.TitleMenusLevel (0.002598s)
+[2019.08.01-12.50.17:119][356]LogLoad: Game class is 'StartGameMode_C'
+[2019.08.01-12.50.17:120][356]LogWorld: Bringing World /Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_TitleMenusLevel.TitleMenusLevel up for play (max tick rate 60) at 2019.08.01-18.20.17
+[2019.08.01-12.50.17:120][356]LogWorld: Bringing up level for play took: 0.000490
+[2019.08.01-12.50.17:121][356]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.08.01-12.50.17:121][356]LogLoad: Took 0.042447 seconds to LoadMap(/Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_TitleMenusLevel)
+[2019.08.01-12.50.18:567][438]LogNet: Browse: /Game/2DSideScroller/2dGameArtSprites/Levels/Level1
+[2019.08.01-12.50.18:568][438]LogLoad: LoadMap: /Game/2DSideScroller/2dGameArtSprites/Levels/Level1
+[2019.08.01-12.50.18:604][438]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.08.01-12.50.18:605][438]LogPlayLevel: Creating play world package: /Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_Level1
+[2019.08.01-12.50.18:613][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008444s)
+[2019.08.01-12.50.18:614][438]LogAIModule: Creating AISystem for world Level1
+[2019.08.01-12.50.18:614][438]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2019.08.01-12.50.18:614][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1 to /Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_Level1.Level1 (0.009558s)
+[2019.08.01-12.50.18:614][438]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.08.01-12.50.18:618][438]LogWorld: Bringing World /Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2019.08.01-18.20.18
+[2019.08.01-12.50.18:619][438]LogWorld: Bringing up level for play took: 0.003891
+[2019.08.01-12.50.18:624][438]LogLoad: Took 0.055889 seconds to LoadMap(/Game/2DSideScroller/2dGameArtSprites/Levels/UEDPIE_0_Level1)
+[2019.08.01-12.50.22:406][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-12.50.22:462][654]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.01-12.50.22:462][654]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel.TitleMenusLevel' with GeneratedClass '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel_C' with ClassGeneratedBy '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel.TitleMenusLevel'
+[2019.08.01-12.50.22:463][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-12.50.22:498][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.01-12.50.22:498][654]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/2DSideScroller/2dGameArtSprites/Levels/Level1.Level1:PersistentLevel.Level1'
+[2019.08.01-12.50.22:498][654]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel.TitleMenusLevel' with GeneratedClass '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel_C' with ClassGeneratedBy '/Game/2DSideScroller/2dGameArtSprites/Levels/TitleMenusLevel.TitleMenusLevel:PersistentLevel.TitleMenusLevel'
+[2019.08.01-12.50.22:545][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-12.50.22:549][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.08.01-12.50.22:569][655]LogPlayLevel: Display: Destroying online subsystem :Context_7
