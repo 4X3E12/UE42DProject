@@ -1,7 +1,6 @@
 
-<html !DOCTYPE>
-<head></head>
-<body>
+
+
 # UE42DProject
  A simple Game of 2D 
 
@@ -12,6 +11,3 @@
     Using Blueprints 
     Version 4.22;
  </p>
-
-</body>
- </html>
