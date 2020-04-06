@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\l4\\Documents\\Unreal Projects\\twoD\\Intermediate\\Android\\APK\\gradle\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\l4\\Documents\\Unreal Projects\\twoD\\Intermediate\\Android\\APK\\gradle\\app\\src\\main\\res\\values-land\\styles.xml",
+                    "from": {
+                        "startLines": "3,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "59,156",
+                        "endLines": "3,9",
+                        "endColumns": "93,12",
+                        "endOffsets": "148,425"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,146",
+                        "endLines": "2,7",
+                        "endColumns": "90,12",
+                        "endOffsets": "141,409"
+                    }
+                }
+            ]
+        }
+    ]
+}
